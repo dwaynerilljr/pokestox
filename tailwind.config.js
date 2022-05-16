@@ -10,11 +10,13 @@ module.exports = {
       colors: {
         brand: "#6366F1",
         dark: "#0F172A",
-        mid: "#1E293B",
+        mid: "#44a1a0",
         light: "#FFFFFF"
       },
       height: {
-        "60v": "60vh"
+        "60v": "75vh",
+        "30v": "33.3vh",
+        "half": "50vh"
       }
     },
   },

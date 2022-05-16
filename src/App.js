@@ -1,5 +1,6 @@
 import './App.css';
 import Hero from './Hero';
+import HowItWorks from './HowItWorks';
 import Navbar from './Navbar';
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <>
       <Navbar />
       <Hero />
+      <HowItWorks />
     </>
   );
 }
